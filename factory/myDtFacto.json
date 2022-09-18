@@ -1,0 +1,9 @@
+{
+	"name": "myDtFacto",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "997c7714-cb6c-4d90-ac52-61437147e0ab",
+		"tenantId": "376e54fd-b1d8-4bfb-80e3-d4d83940d40c"
+	}
+}
